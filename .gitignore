@@ -1,0 +1,5 @@
+venv/
+mlruns/
+*.db
+*.pkl
+__pycache__/

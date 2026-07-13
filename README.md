@@ -23,7 +23,6 @@ The following tools were utilized to ensure professional development and lifecyc
 - `.gitignore`: Standardized exclusions to maintain repository hygiene (ignoring `venv/`, `mlruns/`, and cache).
 
 ## ⚙️ How to Setup
-1. **Clone the repository:**
-   ```bash
-   git clone <your-repo-link>
-   cd fraud-detection-project
+## 🌐 Live Demo
+The application is designed to run locally using Streamlit. After following the setup instructions, the UI will be available at:
+`http://localhost:8501`

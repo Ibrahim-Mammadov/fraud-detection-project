@@ -26,3 +26,7 @@ The following tools were utilized to ensure professional development and lifecyc
 ## 🌐 Live Demo
 The application is designed to run locally using Streamlit. After following the setup instructions, the UI will be available at:
 `http://localhost:8501`
+
+## Senior engineering notes
+
+Fraud labels are imbalanced, so accuracy is not a sufficient metric. Track precision, recall, PR-AUC, calibration, threshold economics, leakage checks, and time-aware validation. Add monitoring and a human-review path before automated decisions.
